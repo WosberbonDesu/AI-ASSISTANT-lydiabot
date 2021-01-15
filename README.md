@@ -12,7 +12,7 @@
 ### cd Desktop for open Desktop path
 
 3- Type this code
-### pyinstaller --onefile "lydiabot"
+### pyinstaller --onefile "lydiabot.py"
 ### then wait and check your Desktop
 ### exe file inside dist folder
 
